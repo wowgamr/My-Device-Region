@@ -1,0 +1,95 @@
+/* 
+  Localizable.strings
+  MyDeviceRegion
+
+  Created by Антон Аверкиев on 25.07.14.
+  Copyright (c) 2014 Anton Averkiev. All rights reserved.
+*/
+
+
+// Первый запуск
+"HELLO_1" = "Hello!\nLet me show you how it works.\nSwipe to the next page";
+"HELLO_2" = "So, you need to find the device model. Look how it's done";
+"HELLO_3" = "Now you need to insert the model in the appropriate fields, as shown in the picture";
+"HELLO_4" = "Excellent!\nLet's try to check your model?\nClick 'Start' at the bottom of page";
+
+// Отказ
+"DEVICE" = "Could not find :( \nPossibly model is incorrect";
+"REGION" = "Unable to determine the region";
+
+// Поддержка
+"SUPPORT_TITLE" = "Support";
+"SUPPORT" = "This email will be sent to app developer. Please, write here you question. English or Russian language only";
+
+// Цвета
+"COLOR_BLACK" = "Color: Black";
+"COLOR_WHITE" = "Color: White";
+"COLOR_BLUE" = "Color: Blue";
+"COLOR_GREEN" = "Color: Green";
+"COLOR_PINK" = "Color: Pink";
+"COLOR_YELLOW" = "Color: Yellow";
+"COLOR_GOLD" = "Color: Gold";
+"COLOR_SILVER" = "Color: Silver";
+"COLOR_RED" = "Color: Red";
+"COLOR_GRAY" = "Color: Space Gray";
+
+// Память
+"STORAGE_4" = "Storage: 4GB";
+"STORAGE_8" = "Storage: 8GB";
+"STORAGE_16" = "Storage: 16GB";
+"STORAGE_32" = "Storage: 32GB";
+"STORAGE_64" = "Storage: 64GB";
+"STORAGE_128" = "Storage: 128GB";
+
+// Регионы
+"REGION_AB" = "Egypt, Jordan, Saudi Arabia, United Arab Emirates";
+"REGION_AE" = "United Arab Emirates, Saudi Arabia, Qatar";
+"REGION_B" = "Ireland, UK, is also used for some replacement phones";
+"REGION_BR" = "Brazil (Assembled in Brazil)";
+"REGION_BZ" = "Brazil (Assembled in China)";
+"REGION_C" = "Canada";
+"REGION_CL" = "Canada";
+"REGION_CN" = "China";
+"REGION_CS" = "Slovenia, Czech Republic";
+"REGION_CZ" = "Czech Republic";
+"REGION_D" = "Germany";
+"REGION_DN" = "Austria, Germany, Netherlands";
+"REGION_E" = "Mexico";
+"REGION_EE" = "Estonia";
+"REGION_EL" = "Estonia, Latvia";
+"REGION_ER" = "Ireland";
+"REGION_FB" = "France, Luxembourg";
+"REGION_FD" = "Austria, Liechtenstein, Switzerland";
+"REGION_GR" = "Greece";
+"REGION_HN" = "India";
+"REGION_ID" = "Indonesia";
+"REGION_IP" = "Italy";
+"REGION_HB" = "Israel";
+"REGION_J" = "Japan";
+"REGION_KH" = "China, South Korea";
+"REGION_KN" = "Norway";
+"REGION_KS" = "Finland, Sweden";
+"REGION_LA" = "Colombia, Ecuador, El Salvador, Guatemala, Honduras, Peru";
+"REGION_LE" = "Argentina";
+"REGION_LL" = "USA";
+"REGION_LZ" = "Chile, Paraguay, Uruguay";
+"REGION_MG" = "Hungary";
+"REGION_MY" = "Malaysia";
+"REGION_NF" = "Belgium, France, Luxembourg";
+"REGION_PL" = "Poland";
+"REGION_PO" = "Portugal";
+"REGION_PP" = "Philippines";
+"REGION_RM" = "Kazakhstan";
+"REGION_RO" = "Romania";
+"REGION_RU" = "Russia";
+"REGION_SL" = "Slovakia";
+"REGION_SO" = "South Africa";
+"REGION_SU" = "Ukraine";
+"REGION_T" = "Italy";
+"REGION_TA" = "Taiwan";
+"REGION_TH" = "Thailand";
+"REGION_TU" = "Turkey";
+"REGION_X" = "Australia, New Zealand";
+"REGION_Y" = "Spain";
+"REGION_ZA" = "Singapore";
+"REGION_ZP" = "Hong Kong, Macao";

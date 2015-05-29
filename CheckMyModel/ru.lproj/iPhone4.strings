@@ -1,0 +1,45 @@
+
+/* Class = "IBUILabel"; text = "ID модели"; ObjectID = "ChP-VM-baC"; */
+"ChP-VM-baC.text" = "ID модели";
+
+/* Class = "IBUILabel"; text = "Модель устройства (5 знаков)"; ObjectID = "Kni-h6-G4V"; */
+"Kni-h6-G4V.text" = "Модель устройства (5 знаков)";
+
+/* Class = "IBUILabel"; text = "Регион"; ObjectID = "McZ-er-aR2"; */
+"McZ-er-aR2.text" = "Регион";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Mlu-Mn-fhH"; */
+"Mlu-Mn-fhH.text" = "Label";
+
+/* Class = "IBUILabel"; text = "2) Найти строку \"Модель\""; ObjectID = "NnA-GA-ZRn"; */
+"NnA-GA-ZRn.text" = "2) Найти строку \"Модель\"";
+
+/* Class = "IBUILabel"; text = "1) Зайти в настройки --> Основные --> Об этом устройстве"; ObjectID = "SXX-4c-hjF"; */
+"SXX-4c-hjF.text" = "1) Зайти в настройки --> Основные --> Об этом устройстве";
+
+/* Class = "IBUILabel"; text = "3) Вписать модель в соответствующие поля в программе"; ObjectID = "Wgf-zk-gKa"; */
+"Wgf-zk-gKa.text" = "3) Вписать модель в соответствующие поля в программе";
+
+/* Class = "IBUILabel"; text = "Память"; ObjectID = "XXe-L4-NpY"; */
+"XXe-L4-NpY.text" = "Память";
+
+/* Class = "IBUILabel"; text = "Для использования программы потребуется узнать номер модели устройства. Для этого нужно:"; ObjectID = "b0d-sS-6JW"; */
+"b0d-sS-6JW.text" = "Для использования программы потребуется узнать номер модели устройства. Для этого нужно:";
+
+/* Class = "IBUILabel"; text = "Код региона   (1 или 2 буквы)"; ObjectID = "dEc-rj-IN5"; */
+"dEc-rj-IN5.text" = "Код региона   (1 или 2 буквы)";
+
+/* Class = "IBUILabel"; text = "Внимание! \"/A\" на конце писать не нужно"; ObjectID = "j28-1O-chj"; */
+"j28-1O-chj.text" = "Внимание! \"/A\" на конце писать не нужно";
+
+/* Class = "IBUILabel"; text = "Устройство"; ObjectID = "jqy-wT-Kio"; */
+"jqy-wT-Kio.text" = "Устройство";
+
+/* Class = "IBUIButton"; normalTitle = "Начать"; ObjectID = "p7n-ti-MkC"; */
+"p7n-ti-MkC.normalTitle" = "Начать";
+
+/* Class = "IBUILabel"; text = "Цвет"; ObjectID = "the-dE-9gA"; */
+"the-dE-9gA.text" = "Цвет";
+
+/* Class = "IBUIButton"; normalTitle = "Проверить"; ObjectID = "vmd-1X-ItM"; */
+"vmd-1X-ItM.normalTitle" = "Проверить";

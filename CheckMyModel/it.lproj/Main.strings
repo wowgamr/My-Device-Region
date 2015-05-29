@@ -1,0 +1,45 @@
+
+/* Class = "IBUILabel"; text = "Model ID"; ObjectID = "ChP-VM-baC"; */
+"ChP-VM-baC.text" = "ID dispositivo";
+
+/* Class = "IBUILabel"; text = "3) Insert the model in the appropriate fields in the program"; ObjectID = "D9Q-6J-s30"; */
+"D9Q-6J-s30.text" = "3) Inserisci il modello nel campo corrispondente nel programma";
+
+/* Class = "IBUILabel"; text = "Attention! \"/A\" in the end should not be written"; ObjectID = "FzT-0d-Mp3"; */
+"FzT-0d-Mp3.text" = "Attenzione! \Non scrivere \"/A\" alla fine";
+
+/* Class = "IBUILabel"; text = "Device Model           (5 characters)"; ObjectID = "Kni-h6-G4V"; */
+"Kni-h6-G4V.text" = "Modello dispositivo (5 caratteri)";
+
+/* Class = "IBUILabel"; text = "Region"; ObjectID = "McZ-er-aR2"; */
+"McZ-er-aR2.text" = "Regione";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Mlu-Mn-fhH"; */
+"Mlu-Mn-fhH.text" = "Label";
+
+/* Class = "IBUILabel"; text = "2) Find the line \"Model\""; ObjectID = "RZx-YL-yZc"; */
+"RZx-YL-yZc.text" = "2) Trova la sezione \"Modello\"";
+
+/* Class = "IBUILabel"; text = "Storage"; ObjectID = "XXe-L4-NpY"; */
+"XXe-L4-NpY.text" = "Capacità";
+
+/* Class = "IBUILabel"; text = "1) Open Settings —> General —> About"; ObjectID = "cs1-Ec-4BF"; */
+"cs1-Ec-4BF.text" = "1) Vai su Impostazioni --> Generali --> Info dispositivo";
+
+/* Class = "IBUILabel"; text = "Region Code   (1 or 2 letter)"; ObjectID = "dEc-rj-IN5"; */
+"dEc-rj-IN5.text" = "Codice regione (1 o 2 lettere)";
+
+/* Class = "IBUILabel"; text = "Device"; ObjectID = "jqy-wT-Kio"; */
+"jqy-wT-Kio.text" = "Dispositivo";
+
+/* Class = "IBUILabel"; text = "For using the program you need to know your device model. For that you need:"; ObjectID = "o6w-RD-O4t"; */
+"o6w-RD-O4t.text" = "Per usare questo programma devi conoscere il modello del tuo dispositivo. Ecco come fare:";
+
+/* Class = "IBUILabel"; text = "Color"; ObjectID = "the-dE-9gA"; */
+"the-dE-9gA.text" = "Сolore";
+
+/* Class = "IBUIButton"; normalTitle = "Check"; ObjectID = "vmd-1X-ItM"; */
+"vmd-1X-ItM.normalTitle" = "Verifica";
+
+/* Class = "IBUIButton"; normalTitle = "Start"; ObjectID = "zb1-4s-OEO"; */
+"zb1-4s-OEO.normalTitle" = "Avvia";

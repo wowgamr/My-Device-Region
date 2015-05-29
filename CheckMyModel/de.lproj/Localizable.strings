@@ -1,0 +1,95 @@
+/* 
+  Localizable.strings
+  MyDeviceRegion
+
+  Created by Антон Аверкиев on 25.07.14.
+  Copyright (c) 2014 Anton Averkiev. All rights reserved.
+*/
+
+
+// Первый запуск
+"HELLO_1" = "Hallo!\nWir zeigen Ihnen wie es funktioniert\nBlättern Sie zur nächsten Seite";
+"HELLO_2" = "Sie müssen also, das Modell des Gerätes finden. Schauen Sie, wie es gemacht wird";
+"HELLO_3" = "Nun müssen Sie das Gerätemodell in das entsprechende Feld eingeben, so wie in der Abbildung dargestellt";
+"HELLO_4" = "Ausgezeichnet!\nLassen Sie uns versuchen, Ihr Modell einzugeben? Klicken Sie auf 'Start' am unteren Rand der Seite";
+
+// Отказ
+"DEVICE" = "Nicht gefunden :( Vielleicht ist das Modell nicht korrekt angegeben";
+"REGION" = "Die Region konnte nicht bestimmt werden";
+
+// Поддержка
+"SUPPORT_TITLE" = "Unterstützung";
+"SUPPORT" = "Diese Nachricht wird an den Entwickler geschickt. Bitte machen Sie Angaben über Ihr Problem. Nur Englisch oder Russisch";
+
+// Цвета
+"COLOR_BLACK" = "Farbe: Schwarz";
+"COLOR_WHITE" = "Farbe: Weiß";
+"COLOR_BLUE" = "Farbe: Blau";
+"COLOR_GREEN" = "Farbe: Grün";
+"COLOR_PINK" = "Farbe: Rosa";
+"COLOR_YELLOW" = "Farbe: Gelb";
+"COLOR_GOLD" = "Farbe: Gold";
+"COLOR_SILVER" = "Farbe: Silbern";
+"COLOR_RED" = "Farbe: Rot";
+"COLOR_GRAY" = "Farbe: Dunkelgrau";
+
+// Память
+"STORAGE_4" = "Kapazität: 4GB";
+"STORAGE_8" = "Kapazität: 8GB";
+"STORAGE_16" = "Kapazität: 16GB";
+"STORAGE_32" = "Kapazität: 32GB";
+"STORAGE_64" = "Kapazität: 64GB";
+"STORAGE_128" = "Kapazität: 128GB";
+
+// Регионы
+"REGION_AB" = "Ägypten, Jordanien, Saudi-Arabien, Vereinigte Arabische Emirate";
+"REGION_AE" = "Vereinigte Arabische Emirate, Saudi-Arabien, Katar";
+"REGION_B" = "Irland, Großbritannien, wird auch für einige Ersatztelefone verwendet";
+"REGION_BR" = "Brasilien (In Brasilien zusammengebaut)";
+"REGION_BZ" = "Brasilien (In China zusammengebaut)";
+"REGION_C" = "Kanada";
+"REGION_CL" = "Kanada";
+"REGION_CN" = "China";
+"REGION_CS" = "Slowenien, Tschechien";
+"REGION_CZ" = "Tschechien";
+"REGION_D" = "Deutschland";
+"REGION_DN" = "Österreich, Deutschland, die Niederlande";
+"REGION_E" = "Mexiko";
+"REGION_EE" = "Estland";
+"REGION_EL" = "Estland, Lettland";
+"REGION_ER" = "Irland";
+"REGION_FB" = "Frankreich, Luxemburg";
+"REGION_FD" = "Österreich, Liechtenstein, Schweiz";
+"REGION_GR" = "Griechenland";
+"REGION_HN" = "Indien";
+"REGION_ID" = "Indonesien";
+"REGION_IP" = "Italien";
+"REGION_HB" = "Israel";
+"REGION_J" = "Japan";
+"REGION_KH" = "China, Südkorea";
+"REGION_KN" = "Norwegen";
+"REGION_KS" = "Finnland, Schweden";
+"REGION_LA" = "Kolumbien, Ecuador, El Salvador, Guatemala, Honduras, Peru";
+"REGION_LE" = "Argentinien";
+"REGION_LL" = "USA";
+"REGION_LZ" = "Chile, Paraguay, Uruguay";
+"REGION_MG" = "Ungarn";
+"REGION_MY" = "Malaysia";
+"REGION_NF" = "Belgien, Frankreich, Luxemburg";
+"REGION_PL" = "Polen";
+"REGION_PO" = "Portugal";
+"REGION_PP" = "Philippinen";
+"REGION_RM" = "Kasachstan";
+"REGION_RO" = "Rumänien";
+"REGION_RU" = "Russland";
+"REGION_SL" = "Slowakei";
+"REGION_SO" = "Südafrika";
+"REGION_SU" = "Ukraine";
+"REGION_T" = "Italien";
+"REGION_TA" = "Taiwan";
+"REGION_TH" = "Thailand";
+"REGION_TU" = "Türkei";
+"REGION_X" = "Australien, Neuseeland";
+"REGION_Y" = "Spanien";
+"REGION_ZA" = "Singapur";
+"REGION_ZP" = "Hongkong, Macao";

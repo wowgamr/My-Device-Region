@@ -7,15 +7,69 @@
 //
 
 #import "AppDelegate.h"
-
+#import "ViewController.h"
+#import "MainViewController.h"
+    
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    UIPageControl *pageControl = [UIPageControl appearance];
+    pageControl.pageIndicatorTintColor = [UIColor lightGrayColor];
+    pageControl.currentPageIndicatorTintColor = [UIColor blackColor];
+    pageControl.backgroundColor = [UIColor whiteColor];
+    
+    
+    if ([UIDevice currentDevice].userInterfaceIdiom == UIUserInterfaceIdiomPhone)
+    {    // The iOS device = iPhone or iPod Touch
+        
+        
+        CGSize iOSDeviceScreenSize = [[UIScreen mainScreen] bounds].size;
+        
+        if (iOSDeviceScreenSize.height == 480)
+        {   // iPhone 3GS, 4, and 4S and iPod Touch 3rd and 4th generation: 3.5 inch screen (diagonally measured)
+            
+            // Instantiate a new storyboard object using the storyboard file named Storyboard_iPhone35
+            UIStoryboard *iPhone35Storyboard = [UIStoryboard storyboardWithName:@"iPhone4" bundle:nil];
+            
+            // Instantiate the initial view controller object from the storyboard
+            UIViewController *initialViewController = [iPhone35Storyboard instantiateInitialViewController];
+            
+            // Instantiate a UIWindow object and initialize it with the screen size of the iOS device
+            self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+            
+            // Set the initial view controller to be the root view controller of the window object
+            self.window.rootViewController  = initialViewController;
+            
+            // Set the window object to be the key window and show it
+            [self.window makeKeyAndVisible];
+        }
+        
+        if (iOSDeviceScreenSize.height == 568)
+        {   // iPhone 5 and iPod Touch 5th generation: 4 inch screen (diagonally measured)
+            
+            // Instantiate a new storyboard object using the storyboard file named Storyboard_iPhone4
+            UIStoryboard *iPhone4Storyboard = [UIStoryboard storyboardWithName:@"Main" bundle:nil];
+            
+            // Instantiate the initial view controller object from the storyboard
+            UIViewController *initialViewController = [iPhone4Storyboard instantiateInitialViewController];
+            
+            // Instantiate a UIWindow object and initialize it with the screen size of the iOS device
+            self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+            
+            // Set the initial view controller to be the root view controller of the window object
+            self.window.rootViewController  = initialViewController;
+            
+            // Set the window object to be the key window and show it
+            [self.window makeKeyAndVisible];
+        }
+}
+    
+    
     return YES;
 }
-							
+
 - (void)applicationWillResignActive:(UIApplication *)application
 {
     // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
@@ -24,7 +78,7 @@
 
 - (void)applicationDidEnterBackground:(UIApplication *)application
 {
-    // Use this method to release shared resources, save user data, invalidate timers, and store enough application state information to restore your application to its current state in case it is terminated later. 
+    // Use this method to release shared resources, save user data, invalidate timers, and store enough application state information to restore your application to its current state in case it is terminated later.
     // If your application supports background execution, this method is called instead of applicationWillTerminate: when the user quits.
 }
 

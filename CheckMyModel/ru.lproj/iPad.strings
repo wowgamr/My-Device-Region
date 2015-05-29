@@ -1,0 +1,45 @@
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "0vw-So-17S"; */
+"0vw-So-17S.text" = "Label";
+
+/* Class = "IBUILabel"; text = "1) Open Settings —> General —> About"; ObjectID = "6zR-w3-LRl"; */
+"6zR-w3-LRl.text" = "1) Зайти в настройки --> Основные --> Об этом устройстве";
+
+/* Class = "IBUILabel"; text = "Storage"; ObjectID = "BFp-B5-bto"; */
+"BFp-B5-bto.text" = "Память";
+
+/* Class = "IBUILabel"; text = "2) Find the line \"Model\""; ObjectID = "Foo-Qw-xuh"; */
+"Foo-Qw-xuh.text" = "2) Найти строку \"Модель\"";
+
+/* Class = "IBUILabel"; text = "Region Code (1 or 2 letter)"; ObjectID = "LOP-0r-GAR"; */
+"LOP-0r-GAR.text" = "Код региона   (1 или 2 буквы)";
+
+/* Class = "IBUILabel"; text = "Model ID"; ObjectID = "PVl-tu-lml"; */
+"PVl-tu-lml.text" = "ID модели";
+
+/* Class = "IBUILabel"; text = "For using the program you need to know your device model. For that you need:"; ObjectID = "QGt-5B-4ra"; */
+"QGt-5B-4ra.text" = "Для использования программы потребуется узнать номер модели устройства. Для этого нужно:";
+
+/* Class = "IBUILabel"; text = "Region"; ObjectID = "cm9-yV-bqr"; */
+"cm9-yV-bqr.text" = "Регион";
+
+/* Class = "IBUILabel"; text = "Device"; ObjectID = "eDR-zL-zu9"; */
+"eDR-zL-zu9.text" = "Устройство";
+
+/* Class = "IBUIButton"; normalTitle = "Start"; ObjectID = "fJj-G2-PaF"; */
+"fJj-G2-PaF.normalTitle" = "Начать";
+
+/* Class = "IBUILabel"; text = "3) Insert the model in the appropriate fields in the program"; ObjectID = "h7j-5X-tjN"; */
+"h7j-5X-tjN.text" = "3) Вписать модель в соответствующие поля в программе";
+
+/* Class = "IBUIButton"; normalTitle = "Check"; ObjectID = "j6I-ts-9Cp"; */
+"j6I-ts-9Cp.normalTitle" = "Проверить";
+
+/* Class = "IBUILabel"; text = "Color"; ObjectID = "qAp-yJ-1s2"; */
+"qAp-yJ-1s2.text" = "Цвет";
+
+/* Class = "IBUILabel"; text = "Attention! \"/A\" in the end should not be written"; ObjectID = "s1S-0f-Pgn"; */
+"s1S-0f-Pgn.text" = "Внимание! \"/A\" на конце писать не нужно";
+
+/* Class = "IBUILabel"; text = "Device Model (5 characters)"; ObjectID = "zA9-tt-2fh"; */
+"zA9-tt-2fh.text" = "Модель устройства (5 знаков)";

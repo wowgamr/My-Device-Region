@@ -1,0 +1,45 @@
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "0vw-So-17S"; */
+"0vw-So-17S.text" = "Label";
+
+/* Class = "IBUILabel"; text = "1) Open Settings —> General —> About"; ObjectID = "6zR-w3-LRl"; */
+"6zR-w3-LRl.text" = "1) Vai su Impostazioni --> Generali --> Info dispositivo;
+
+/* Class = "IBUILabel"; text = "Storage"; ObjectID = "BFp-B5-bto"; */
+"BFp-B5-bto.text" = "Capacità";
+
+/* Class = "IBUILabel"; text = "2) Find the line \"Model\""; ObjectID = "Foo-Qw-xuh"; */
+"Foo-Qw-xuh.text" = "2) Trova la sezione \"Modello\"";
+
+/* Class = "IBUILabel"; text = "Region Code (1 or 2 letter)"; ObjectID = "LOP-0r-GAR"; */
+"LOP-0r-GAR.text" = "Codice regione (1 o 2 lettere)";
+
+/* Class = "IBUILabel"; text = "Model ID"; ObjectID = "PVl-tu-lml"; */
+"PVl-tu-lml.text" = "ID dispositivo";
+
+/* Class = "IBUILabel"; text = "For using the program you need to know your device model. For that you need:"; ObjectID = "QGt-5B-4ra"; */
+"QGt-5B-4ra.text" = "Per usare questo programma devi conoscere il modello del tuo dispositivo. Ecco come fare:";
+
+/* Class = "IBUILabel"; text = "Region"; ObjectID = "cm9-yV-bqr"; */
+"cm9-yV-bqr.text" = "Regione";
+
+/* Class = "IBUILabel"; text = "Device"; ObjectID = "eDR-zL-zu9"; */
+"eDR-zL-zu9.text" = "Dispositivo";
+
+/* Class = "IBUIButton"; normalTitle = "Start"; ObjectID = "fJj-G2-PaF"; */
+"fJj-G2-PaF.normalTitle" = "Avvia";
+
+/* Class = "IBUILabel"; text = "3) Insert the model in the appropriate fields in the program"; ObjectID = "h7j-5X-tjN"; */
+"h7j-5X-tjN.text" = "3) Inserisci il modello nel campo corrispondente nel programma";
+
+/* Class = "IBUIButton"; normalTitle = "Check"; ObjectID = "j6I-ts-9Cp"; */
+"j6I-ts-9Cp.normalTitle" = "Verifica";
+
+/* Class = "IBUILabel"; text = "Color"; ObjectID = "qAp-yJ-1s2"; */
+"qAp-yJ-1s2.text" = "Сolore";
+
+/* Class = "IBUILabel"; text = "Attention! \"/A\" in the end should not be written"; ObjectID = "s1S-0f-Pgn"; */
+"s1S-0f-Pgn.text" = "Attenzione! \Non scrivere \"/A\" alla fine";
+
+/* Class = "IBUILabel"; text = "Device Model (5 characters)"; ObjectID = "zA9-tt-2fh"; */
+"zA9-tt-2fh.text" = "Modello dispositivo (5 caratteri)";
