@@ -2456,7 +2456,7 @@
         NSString *code = @"iPhone4,1";
         self.code.text = code;
     }
-    if ([model isEqual: @"MC921"] || [model isEqual: @"MD244"] || [model isEqual: @"MD279"] || [model isEqual: @"MD380"] || [model isEqual: @"MD246"]) {
+    if ([model isEqual: @"MC921"] || [model isEqual: @"MD244"] || [model isEqual: @"MD279"] || [model isEqual: @"MD380"] || [model isEqual: @"MD246"] || [model isEqual: @"MD245"]) {
         NSString *device = @"iPhone 4s";
         self.device.text = device;
         NSString *color = NSLocalizedString(@"COLOR_WHITE",);
@@ -2955,7 +2955,7 @@
         NSString *code = @"iPhone6,1";
         self.code.text = code;
     }
-    if ([model isEqual: @"ME312"] || [model isEqual: @"ME436"] || [model isEqual: @"ME348"] || [model isEqual: @"MF388"] || [model isEqual: @"ME357"]) {
+    if ([model isEqual: @"ME312"] || [model isEqual: @"ME436"] || [model isEqual: @"ME348"] || [model isEqual: @"MF388"] || [model isEqual: @"ME357"] || [model isEqual: @"NE303"]) {
         NSString *device = @"iPhone 5s";
         self.device.text = device;
         NSString *color = NSLocalizedString(@"COLOR_WHITE",);
