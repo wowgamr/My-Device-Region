@@ -6,6 +6,7 @@
   Copyright (c) 2014 Anton Averkiev. All rights reserved.
 */
 
+"NOTIF" = "7 juli diese anwendung verschwindet aus App Store. Quellcode kann von Bitbucket heruntergeladen werden. Danke für die unterstützung :3";
 
 // Первый запуск
 "HELLO_1" = "Hallo!\nWir zeigen Ihnen wie es funktioniert\nBlättern Sie zur nächsten Seite";
