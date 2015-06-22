@@ -1340,7 +1340,7 @@
     
     // iPad Mini + iPad Mini 2
     
-    if ([model isEqual: @"MD528"]) {
+    if ([model isEqual: @"MD528"] || [model isEqual: @"MF432"]) {
         NSString *device = @"iPad mini Wi-Fi";
         self.device.text = device;
         NSString *color = NSLocalizedString(@"COLOR_BLACK",);
@@ -2612,7 +2612,7 @@
         NSString *code = @"iPhone5,3";
         self.code.text = code;
     }
-    if ([model isEqual: @"ME507"] || [model isEqual: @"ME567"] || [model isEqual: @"ME555"] || [model isEqual: @"MF366"] || [model isEqual: @"ME531"] || [model isEqual: @"ME495"]) {
+    if ([model isEqual: @"ME507"] || [model isEqual: @"ME567"] || [model isEqual: @"ME555"] || [model isEqual: @"MF366"] || [model isEqual: @"ME531"] || [model isEqual: @"ME495"] || [model isEqual: @"ME561"]) {
         NSString *device = @"iPhone 5c";
         self.device.text = device;
         NSString *color = NSLocalizedString(@"COLOR_BLUE",);
