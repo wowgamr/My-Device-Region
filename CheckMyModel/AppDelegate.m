@@ -84,13 +84,13 @@
 
 - (void)applicationDidEnterBackground:(UIApplication *)application
 {
-        UILocalNotification *notification = [[UILocalNotification alloc]init];
+       /* UILocalNotification *notification = [[UILocalNotification alloc]init];
         notification.repeatInterval = NSDayCalendarUnit;
         [notification setAlertBody:NSLocalizedString(@"NOTIF",)];
         [notification setFireDate:[NSDate dateWithTimeIntervalSinceNow:2]];
         [notification setTimeZone:[NSTimeZone  defaultTimeZone]];
         [application setScheduledLocalNotifications:[NSArray arrayWithObject:notification]];
-        [notification setSoundName:(UILocalNotificationDefaultSoundName)];
+        [notification setSoundName:(UILocalNotificationDefaultSoundName)]; */
 }
 
 - (void)applicationWillEnterForeground:(UIApplication *)application
